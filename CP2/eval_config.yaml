@@ -1,0 +1,6 @@
+bert_model: monologg/kobert
+test_data_path: test답.txt
+ckpt_path: c://users/mcr/Desktop/sample/checkpoints/epoch=35-step=35.ckpt
+max_len: 128
+eval_batch_size: 128
+dropout_rate: 0.1
